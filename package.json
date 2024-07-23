@@ -2,7 +2,7 @@
   "name": "buoi31",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/anhtuan25121/Buoi31-Day3-React",
+  "homepage": "https://anhtuan25121.github.io/Buoi31-Day3-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
